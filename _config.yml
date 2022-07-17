@@ -1,3 +1,5 @@
 title: Cygisk
 logo: https://raw.githubusercontent.com/Cygisk/Cygisk.github.io/master/logo.png
 theme: jekyll-theme-minimal
+github:
+  is_user_page: false
